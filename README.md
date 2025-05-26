@@ -1,1 +1,1 @@
-# DSA Implementation (Python, Javascript, Java, C++)
+# DSA Implementation (Python, JavaScript, C++)
