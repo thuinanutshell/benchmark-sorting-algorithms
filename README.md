@@ -9,6 +9,7 @@ This repo is my ongoing effort to implement the most common data structures and 
 - [Dynamic Programming](#dynamic-programming)
 
 ## Sorting Algorithms
+Check out the empirical experiments in this [Google Colab Notebook](https://colab.research.google.com/drive/1aOCxGSlI88Zf_GA2lTMU5oEfXIPLuu1J?authuser=1).
 ## Trees
 ## Greedy Algorithms
 ## Dynamic Programming
