@@ -1,15 +1,16 @@
-# DSA Implementation (Python, JavaScript, C++)
-
-This repo is my ongoing effort to implement the most common data structures and algorithms in different languages. I believe it is very beneficial to compare and contrast what each language can and cannot do so that we can develop a mental model of when to use what. I hope you find this resource helpful. I organize this repo into 4 folders, each folder consists of subfolders including: sorting algorithms, trees, dynamic programming, and graphs.
+# Benchmarking Sorting Algorithms in Python
 
 ## Table of Contents
-- [Sorting Algorithms](#sorting-algorithms)
-- [Trees](#trees)
-- [Greedy Algorithms](#greedy-algorithms)
-- [Dynamic Programming](#dynamic-programming)
+- [Bubble Sort](#bubble-sort)
+- [Insertion Sort](#insertion-sort)
+- [Selection Sort](#selection-sort)
+- [Mergesort](#mergesort)
+- [Quicksort](#quicksort)
 
-## Sorting Algorithms
+## Experiment Notebook
 Check out the time complexity empirical experiments in this [Google Colab Notebook](https://colab.research.google.com/drive/1aOCxGSlI88Zf_GA2lTMU5oEfXIPLuu1J?authuser=1).
-## Trees
-## Greedy Algorithms
-## Dynamic Programming
+## Bubble Sort
+## Insertion Sort
+## Selection Sort
+## Mergesort
+## Quicksort
