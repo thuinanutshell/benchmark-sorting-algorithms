@@ -13,15 +13,17 @@
 - [Topological Sort](#topological-sort)
 
 ## Experiment Notebook
-Check out the time complexity empirical experiments in this [Google Colab Notebook](https://colab.research.google.com/drive/1aOCxGSlI88Zf_GA2lTMU5oEfXIPLuu1J?authuser=1).
-## Bubble Sort
-## Insertion Sort
-## Selection Sort
-## Mergesort
-## Quicksort
-## Heapsort
+Check out the my early draft for time complexity empirical experiments in this [Google Colab Notebook](https://colab.research.google.com/drive/1aOCxGSlI88Zf_GA2lTMU5oEfXIPLuu1J?authuser=1).
+## Fundamental Sorting Algorithms
+### Bubble Sort
+### Insertion Sort
+### Selection Sort
+### Mergesort
+### Quicksort
+### Heapsort
 
-## Radix Sort
-## Counting Sort
-## Bucket Sort
-## Topological Sort
+## Other Sorting Algorithms
+### Radix Sort
+### Counting Sort
+### Bucket Sort
+### Topological Sort
