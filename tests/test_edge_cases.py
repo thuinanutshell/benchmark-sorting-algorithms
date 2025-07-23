@@ -21,7 +21,7 @@ def test_data():
     }
 
 
-class TestCorrectness:
+class TestEdgeCases:
     def test_empty_array(self, sorting_algorithm):
         """Test with empty array - runs for ALL algorithms automatically"""
         result = sorting_algorithm([])
