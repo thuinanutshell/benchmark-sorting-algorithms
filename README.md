@@ -12,8 +12,12 @@
 - [Bucket Sort](#bucket-sort)
 - [Topological Sort](#topological-sort)
 
-## Experiment Notebook
-Check out the my early draft for time complexity empirical experiments in this [Google Colab Notebook](https://colab.research.google.com/drive/1aOCxGSlI88Zf_GA2lTMU5oEfXIPLuu1J?authuser=1).
+## Experiment Results
+Check out my early draft for time complexity empirical experiments in this [Google Colab Notebook](https://colab.research.google.com/drive/1aOCxGSlI88Zf_GA2lTMU5oEfXIPLuu1J?authuser=1).
+
+<img width="1492" height="796" alt="Screenshot 2025-07-23 at 2 58 17 PM" src="https://github.com/user-attachments/assets/c0c068b2-c82f-4de4-9788-3912e80d2006" />
+
+
 ## Fundamental Sorting Algorithms
 ### Bubble Sort
 ### Insertion Sort
