@@ -35,7 +35,7 @@ def build_max_heap(arr: List) -> None:
 
 
 def heapsort(arr: List) -> None:
-    """HeapSort Algorithm (in-place) - your original implementation"""
+    """HeapSort Algorithm (in-place)"""
     n = len(arr)
     build_max_heap(arr)
     for i in range(n - 1, 0, -1):
